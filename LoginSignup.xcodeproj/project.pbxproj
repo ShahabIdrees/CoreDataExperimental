@@ -29,22 +29,9 @@
 		734EFA702ED2130400025AE1 /* LoginSignupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginSignupUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		734EFA782ED2130400025AE1 /* Exceptions for "LoginSignup" folder in "LoginSignup" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 734EFA4C2ED212F900025AE1 /* LoginSignup */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		734EFA4F2ED212F900025AE1 /* LoginSignup */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				734EFA782ED2130400025AE1 /* Exceptions for "LoginSignup" folder in "LoginSignup" target */,
-			);
 			path = LoginSignup;
 			sourceTree = "<group>";
 		};
